@@ -84,4 +84,4 @@ module.exports = class LinkedList {
         }
         return undefined;
     }
-};
+v };
